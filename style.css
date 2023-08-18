@@ -1,0 +1,38 @@
+
+.container-background 
+{
+background-image: url(kabaddi.jpeg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#posts{
+    background-color: rgb(34, 174, 144);
+}
+#portfolio-section{
+    background-color: black;
+}
+#aboutme{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 10px;
+}
+#about{
+    color: #321fd5;
+    text-align: center;
+}
+.m{
+    margin : 2px ;
+}
+.imgsize{
+    height : 450px;
+    width: 80px;
+}
+body{
+    background-color: black;
+
+}
